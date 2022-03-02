@@ -6,8 +6,6 @@ function Header() {
 
     return (
         <>
-
-
             <nav className='navbar navbar-expand-lg navbar-light' >
                 <div className='container-fluid'>
                     <a href="" className='navbar-brand'>Weather/News</a>
@@ -20,8 +18,6 @@ function Header() {
                     </div>
                 </div>
             </nav>
-
-
         </>
     )
 }

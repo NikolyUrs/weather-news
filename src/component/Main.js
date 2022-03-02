@@ -5,10 +5,8 @@ import Weather from './Weather';
 function Main() {
     return (
         <>
-            <div className=''>
                 <Weather />
                 <News />
-            </div>
         </>
     )
 }

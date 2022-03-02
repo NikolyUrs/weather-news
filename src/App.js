@@ -2,7 +2,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Header from './component/Header';
 import Main from './component/Main';
-import Footer from './component/Footer';
 import News from './component/News';
 import Weather from './component/Weather';
 
@@ -23,9 +22,7 @@ function App() {
                 <Route exact path='/news' element={<News />} />
               </Routes>
             </div>
-        </Router>
-        <Footer />
-     
+        </Router>     
     </>
   );
 }
