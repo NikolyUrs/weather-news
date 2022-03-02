@@ -1,0 +1,47 @@
+
+
+.head {
+    width: 600px;
+}
+
+form {
+
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    
+}
+
+.city {
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background-color: whitesmoke;
+    border-radius: 25px 0 0 25px;
+    padding-left: 25px;
+}
+
+.search {
+  
+    
+    width: 100px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background-color: #e3f2fd;
+    border-radius: 0 25px 25px 0;
+    transition: .5s;
+
+}
+.search:hover {
+    background-color: red;
+}
+.weather {
+
+}
+.icon {
+    width: 100px;
+    height: 100px;
+    margin: 0;
+}

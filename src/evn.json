@@ -1,0 +1,5 @@
+{
+    "url" : "https://api.openweathermap.org/data/2.5/weather?q=",
+    "key" : "32da5899a74f225effbd90a0748f0f29",
+    "newskey" : "af1a192bc5cc47318b87c6c0c60cd70a"
+}
